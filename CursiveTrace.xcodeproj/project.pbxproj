@@ -85,7 +85,7 @@
 			path = CursiveTrace;
 			sourceTree = "<group>";
 		};
-		AA000000000000000000001 /* main */ = {
+		AA000000000000000000099 /* main */ = {
 			isa = PBXGroup;
 			children = (
 				AA000000000000000000003 /* CursiveTrace */,
@@ -251,7 +251,7 @@
 				en,
 				Base,
 			);
-			mainGroup = AA000000000000000000001;
+			mainGroup = AA000000000000000000099;
 			productRefGroup = AA000000000000000000070 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
