@@ -1,0 +1,2678 @@
+[
+  {
+    "character": "a",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 130,
+          "y": 130
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 60,
+          "y": 110
+        },
+        "control1": {
+          "x": 130,
+          "y": 90
+        },
+        "control2": {
+          "x": 60,
+          "y": 90
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 50,
+          "y": 185
+        },
+        "control1": {
+          "x": 30,
+          "y": 130
+        },
+        "control2": {
+          "x": 30,
+          "y": 185
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 130,
+          "y": 210
+        },
+        "control1": {
+          "x": 50,
+          "y": 220
+        },
+        "control2": {
+          "x": 130,
+          "y": 230
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 140,
+          "y": 130
+        },
+        "control1": {
+          "x": 160,
+          "y": 200
+        },
+        "control2": {
+          "x": 160,
+          "y": 130
+        }
+      },
+      {
+        "type": "lineTo",
+        "point": {
+          "x": 140,
+          "y": 210
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 170,
+          "y": 210
+        },
+        "control1": {
+          "x": 140,
+          "y": 225
+        },
+        "control2": {
+          "x": 170,
+          "y": 225
+        }
+      }
+    ]
+  },
+  {
+    "character": "b",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 50,
+          "y": 210
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 60,
+          "y": 50
+        },
+        "control1": {
+          "x": 40,
+          "y": 150
+        },
+        "control2": {
+          "x": 40,
+          "y": 50
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 80,
+          "y": 80
+        },
+        "control1": {
+          "x": 70,
+          "y": 50
+        },
+        "control2": {
+          "x": 80,
+          "y": 65
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 145,
+          "y": 130
+        },
+        "control1": {
+          "x": 130,
+          "y": 80
+        },
+        "control2": {
+          "x": 155,
+          "y": 100
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 145,
+          "y": 185
+        },
+        "control1": {
+          "x": 160,
+          "y": 160
+        },
+        "control2": {
+          "x": 160,
+          "y": 185
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 70,
+          "y": 215
+        },
+        "control1": {
+          "x": 145,
+          "y": 220
+        },
+        "control2": {
+          "x": 70,
+          "y": 230
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 55,
+          "y": 185
+        },
+        "control1": {
+          "x": 40,
+          "y": 215
+        },
+        "control2": {
+          "x": 40,
+          "y": 185
+        }
+      },
+      {
+        "type": "lineTo",
+        "point": {
+          "x": 55,
+          "y": 210
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 170,
+          "y": 210
+        },
+        "control1": {
+          "x": 55,
+          "y": 225
+        },
+        "control2": {
+          "x": 170,
+          "y": 225
+        }
+      }
+    ]
+  },
+  {
+    "character": "c",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 145,
+          "y": 125
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 80,
+          "y": 100
+        },
+        "control1": {
+          "x": 145,
+          "y": 90
+        },
+        "control2": {
+          "x": 80,
+          "y": 90
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 45,
+          "y": 160
+        },
+        "control1": {
+          "x": 40,
+          "y": 100
+        },
+        "control2": {
+          "x": 40,
+          "y": 160
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 80,
+          "y": 215
+        },
+        "control1": {
+          "x": 40,
+          "y": 215
+        },
+        "control2": {
+          "x": 80,
+          "y": 225
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 145,
+          "y": 195
+        },
+        "control1": {
+          "x": 120,
+          "y": 225
+        },
+        "control2": {
+          "x": 145,
+          "y": 210
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 170,
+          "y": 210
+        },
+        "control1": {
+          "x": 150,
+          "y": 205
+        },
+        "control2": {
+          "x": 170,
+          "y": 225
+        }
+      }
+    ]
+  },
+  {
+    "character": "d",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 130,
+          "y": 130
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 60,
+          "y": 110
+        },
+        "control1": {
+          "x": 130,
+          "y": 90
+        },
+        "control2": {
+          "x": 60,
+          "y": 90
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 50,
+          "y": 185
+        },
+        "control1": {
+          "x": 30,
+          "y": 130
+        },
+        "control2": {
+          "x": 30,
+          "y": 185
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 130,
+          "y": 210
+        },
+        "control1": {
+          "x": 50,
+          "y": 220
+        },
+        "control2": {
+          "x": 130,
+          "y": 230
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 140,
+          "y": 130
+        },
+        "control1": {
+          "x": 160,
+          "y": 200
+        },
+        "control2": {
+          "x": 160,
+          "y": 130
+        }
+      },
+      {
+        "type": "lineTo",
+        "point": {
+          "x": 140,
+          "y": 50
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 160,
+          "y": 50
+        },
+        "control1": {
+          "x": 140,
+          "y": 38
+        },
+        "control2": {
+          "x": 160,
+          "y": 38
+        }
+      },
+      {
+        "type": "lineTo",
+        "point": {
+          "x": 160,
+          "y": 210
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 175,
+          "y": 210
+        },
+        "control1": {
+          "x": 160,
+          "y": 225
+        },
+        "control2": {
+          "x": 175,
+          "y": 225
+        }
+      }
+    ]
+  },
+  {
+    "character": "e",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 50,
+          "y": 165
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "lineTo",
+        "point": {
+          "x": 150,
+          "y": 165
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 130,
+          "y": 105
+        },
+        "control1": {
+          "x": 160,
+          "y": 155
+        },
+        "control2": {
+          "x": 160,
+          "y": 105
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 60,
+          "y": 105
+        },
+        "control1": {
+          "x": 110,
+          "y": 90
+        },
+        "control2": {
+          "x": 60,
+          "y": 90
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 45,
+          "y": 165
+        },
+        "control1": {
+          "x": 35,
+          "y": 110
+        },
+        "control2": {
+          "x": 35,
+          "y": 165
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 80,
+          "y": 215
+        },
+        "control1": {
+          "x": 40,
+          "y": 215
+        },
+        "control2": {
+          "x": 80,
+          "y": 228
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 150,
+          "y": 195
+        },
+        "control1": {
+          "x": 120,
+          "y": 225
+        },
+        "control2": {
+          "x": 150,
+          "y": 210
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 170,
+          "y": 210
+        },
+        "control1": {
+          "x": 155,
+          "y": 205
+        },
+        "control2": {
+          "x": 170,
+          "y": 225
+        }
+      }
+    ]
+  },
+  {
+    "character": "f",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 140,
+          "y": 65
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 100,
+          "y": 55
+        },
+        "control1": {
+          "x": 140,
+          "y": 40
+        },
+        "control2": {
+          "x": 100,
+          "y": 40
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 80,
+          "y": 90
+        },
+        "control1": {
+          "x": 75,
+          "y": 60
+        },
+        "control2": {
+          "x": 75,
+          "y": 90
+        }
+      },
+      {
+        "type": "lineTo",
+        "point": {
+          "x": 80,
+          "y": 260
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 110,
+          "y": 278
+        },
+        "control1": {
+          "x": 80,
+          "y": 275
+        },
+        "control2": {
+          "x": 110,
+          "y": 285
+        }
+      },
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 50,
+          "y": 155
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "lineTo",
+        "point": {
+          "x": 130,
+          "y": 155
+        },
+        "control1": null,
+        "control2": null
+      }
+    ]
+  },
+  {
+    "character": "g",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 130,
+          "y": 130
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 60,
+          "y": 110
+        },
+        "control1": {
+          "x": 130,
+          "y": 90
+        },
+        "control2": {
+          "x": 60,
+          "y": 90
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 50,
+          "y": 185
+        },
+        "control1": {
+          "x": 30,
+          "y": 130
+        },
+        "control2": {
+          "x": 30,
+          "y": 185
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 130,
+          "y": 210
+        },
+        "control1": {
+          "x": 50,
+          "y": 220
+        },
+        "control2": {
+          "x": 130,
+          "y": 230
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 145,
+          "y": 130
+        },
+        "control1": {
+          "x": 160,
+          "y": 200
+        },
+        "control2": {
+          "x": 160,
+          "y": 130
+        }
+      },
+      {
+        "type": "lineTo",
+        "point": {
+          "x": 145,
+          "y": 260
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 90,
+          "y": 278
+        },
+        "control1": {
+          "x": 145,
+          "y": 285
+        },
+        "control2": {
+          "x": 90,
+          "y": 285
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 60,
+          "y": 265
+        },
+        "control1": {
+          "x": 65,
+          "y": 280
+        },
+        "control2": {
+          "x": 55,
+          "y": 265
+        }
+      }
+    ]
+  },
+  {
+    "character": "h",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 50,
+          "y": 210
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 55,
+          "y": 50
+        },
+        "control1": {
+          "x": 40,
+          "y": 150
+        },
+        "control2": {
+          "x": 40,
+          "y": 50
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 70,
+          "y": 70
+        },
+        "control1": {
+          "x": 60,
+          "y": 50
+        },
+        "control2": {
+          "x": 70,
+          "y": 60
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 120,
+          "y": 130
+        },
+        "control1": {
+          "x": 95,
+          "y": 75
+        },
+        "control2": {
+          "x": 130,
+          "y": 100
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 140,
+          "y": 160
+        },
+        "control1": {
+          "x": 145,
+          "y": 145
+        },
+        "control2": {
+          "x": 150,
+          "y": 160
+        }
+      },
+      {
+        "type": "lineTo",
+        "point": {
+          "x": 140,
+          "y": 210
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 170,
+          "y": 210
+        },
+        "control1": {
+          "x": 140,
+          "y": 225
+        },
+        "control2": {
+          "x": 170,
+          "y": 225
+        }
+      }
+    ]
+  },
+  {
+    "character": "i",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 90,
+          "y": 120
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 100,
+          "y": 115
+        },
+        "control1": {
+          "x": 90,
+          "y": 108
+        },
+        "control2": {
+          "x": 100,
+          "y": 108
+        }
+      },
+      {
+        "type": "lineTo",
+        "point": {
+          "x": 100,
+          "y": 210
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 130,
+          "y": 210
+        },
+        "control1": {
+          "x": 100,
+          "y": 225
+        },
+        "control2": {
+          "x": 130,
+          "y": 225
+        }
+      },
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 95,
+          "y": 87
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 105,
+          "y": 87
+        },
+        "control1": {
+          "x": 95,
+          "y": 79
+        },
+        "control2": {
+          "x": 105,
+          "y": 79
+        }
+      }
+    ]
+  },
+  {
+    "character": "j",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 110,
+          "y": 120
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 120,
+          "y": 115
+        },
+        "control1": {
+          "x": 110,
+          "y": 108
+        },
+        "control2": {
+          "x": 120,
+          "y": 108
+        }
+      },
+      {
+        "type": "lineTo",
+        "point": {
+          "x": 120,
+          "y": 255
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 70,
+          "y": 278
+        },
+        "control1": {
+          "x": 120,
+          "y": 285
+        },
+        "control2": {
+          "x": 70,
+          "y": 285
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 55,
+          "y": 262
+        },
+        "control1": {
+          "x": 50,
+          "y": 275
+        },
+        "control2": {
+          "x": 50,
+          "y": 260
+        }
+      },
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 113,
+          "y": 87
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 123,
+          "y": 87
+        },
+        "control1": {
+          "x": 113,
+          "y": 79
+        },
+        "control2": {
+          "x": 123,
+          "y": 79
+        }
+      }
+    ]
+  },
+  {
+    "character": "k",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 55,
+          "y": 210
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 60,
+          "y": 50
+        },
+        "control1": {
+          "x": 42,
+          "y": 150
+        },
+        "control2": {
+          "x": 42,
+          "y": 50
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 75,
+          "y": 70
+        },
+        "control1": {
+          "x": 62,
+          "y": 50
+        },
+        "control2": {
+          "x": 75,
+          "y": 60
+        }
+      },
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 145,
+          "y": 125
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 80,
+          "y": 160
+        },
+        "control1": {
+          "x": 120,
+          "y": 130
+        },
+        "control2": {
+          "x": 80,
+          "y": 160
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 150,
+          "y": 210
+        },
+        "control1": {
+          "x": 110,
+          "y": 175
+        },
+        "control2": {
+          "x": 140,
+          "y": 200
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 170,
+          "y": 210
+        },
+        "control1": {
+          "x": 155,
+          "y": 225
+        },
+        "control2": {
+          "x": 170,
+          "y": 225
+        }
+      }
+    ]
+  },
+  {
+    "character": "l",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 70,
+          "y": 210
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 75,
+          "y": 55
+        },
+        "control1": {
+          "x": 55,
+          "y": 155
+        },
+        "control2": {
+          "x": 55,
+          "y": 55
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 90,
+          "y": 50
+        },
+        "control1": {
+          "x": 75,
+          "y": 38
+        },
+        "control2": {
+          "x": 90,
+          "y": 38
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 95,
+          "y": 70
+        },
+        "control1": {
+          "x": 100,
+          "y": 55
+        },
+        "control2": {
+          "x": 100,
+          "y": 70
+        }
+      },
+      {
+        "type": "lineTo",
+        "point": {
+          "x": 95,
+          "y": 210
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 140,
+          "y": 210
+        },
+        "control1": {
+          "x": 95,
+          "y": 225
+        },
+        "control2": {
+          "x": 140,
+          "y": 225
+        }
+      }
+    ]
+  },
+  {
+    "character": "m",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 30,
+          "y": 160
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 40,
+          "y": 120
+        },
+        "control1": {
+          "x": 30,
+          "y": 130
+        },
+        "control2": {
+          "x": 30,
+          "y": 120
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 75,
+          "y": 120
+        },
+        "control1": {
+          "x": 45,
+          "y": 110
+        },
+        "control2": {
+          "x": 70,
+          "y": 110
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 85,
+          "y": 155
+        },
+        "control1": {
+          "x": 88,
+          "y": 125
+        },
+        "control2": {
+          "x": 88,
+          "y": 155
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 85,
+          "y": 120
+        },
+        "control1": {
+          "x": 85,
+          "y": 140
+        },
+        "control2": {
+          "x": 83,
+          "y": 120
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 120,
+          "y": 120
+        },
+        "control1": {
+          "x": 88,
+          "y": 110
+        },
+        "control2": {
+          "x": 115,
+          "y": 110
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 130,
+          "y": 155
+        },
+        "control1": {
+          "x": 133,
+          "y": 125
+        },
+        "control2": {
+          "x": 133,
+          "y": 155
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 130,
+          "y": 120
+        },
+        "control1": {
+          "x": 130,
+          "y": 140
+        },
+        "control2": {
+          "x": 128,
+          "y": 120
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 165,
+          "y": 120
+        },
+        "control1": {
+          "x": 133,
+          "y": 110
+        },
+        "control2": {
+          "x": 160,
+          "y": 110
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 165,
+          "y": 210
+        },
+        "control1": {
+          "x": 175,
+          "y": 130
+        },
+        "control2": {
+          "x": 175,
+          "y": 210
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 180,
+          "y": 210
+        },
+        "control1": {
+          "x": 165,
+          "y": 225
+        },
+        "control2": {
+          "x": 180,
+          "y": 225
+        }
+      }
+    ]
+  },
+  {
+    "character": "n",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 35,
+          "y": 160
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 45,
+          "y": 120
+        },
+        "control1": {
+          "x": 35,
+          "y": 130
+        },
+        "control2": {
+          "x": 35,
+          "y": 120
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 80,
+          "y": 120
+        },
+        "control1": {
+          "x": 48,
+          "y": 110
+        },
+        "control2": {
+          "x": 75,
+          "y": 110
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 90,
+          "y": 155
+        },
+        "control1": {
+          "x": 93,
+          "y": 125
+        },
+        "control2": {
+          "x": 93,
+          "y": 155
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 90,
+          "y": 120
+        },
+        "control1": {
+          "x": 90,
+          "y": 140
+        },
+        "control2": {
+          "x": 88,
+          "y": 120
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 138,
+          "y": 120
+        },
+        "control1": {
+          "x": 93,
+          "y": 110
+        },
+        "control2": {
+          "x": 133,
+          "y": 110
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 148,
+          "y": 210
+        },
+        "control1": {
+          "x": 153,
+          "y": 130
+        },
+        "control2": {
+          "x": 153,
+          "y": 210
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 170,
+          "y": 210
+        },
+        "control1": {
+          "x": 148,
+          "y": 225
+        },
+        "control2": {
+          "x": 170,
+          "y": 225
+        }
+      }
+    ]
+  },
+  {
+    "character": "o",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 130,
+          "y": 135
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 65,
+          "y": 105
+        },
+        "control1": {
+          "x": 130,
+          "y": 90
+        },
+        "control2": {
+          "x": 65,
+          "y": 90
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 40,
+          "y": 165
+        },
+        "control1": {
+          "x": 30,
+          "y": 110
+        },
+        "control2": {
+          "x": 30,
+          "y": 165
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 65,
+          "y": 218
+        },
+        "control1": {
+          "x": 30,
+          "y": 220
+        },
+        "control2": {
+          "x": 65,
+          "y": 230
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 140,
+          "y": 200
+        },
+        "control1": {
+          "x": 115,
+          "y": 230
+        },
+        "control2": {
+          "x": 150,
+          "y": 215
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 140,
+          "y": 135
+        },
+        "control1": {
+          "x": 160,
+          "y": 190
+        },
+        "control2": {
+          "x": 160,
+          "y": 135
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 170,
+          "y": 210
+        },
+        "control1": {
+          "x": 155,
+          "y": 195
+        },
+        "control2": {
+          "x": 165,
+          "y": 225
+        }
+      }
+    ]
+  },
+  {
+    "character": "p",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 50,
+          "y": 130
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "lineTo",
+        "point": {
+          "x": 50,
+          "y": 275
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 80,
+          "y": 285
+        },
+        "control1": {
+          "x": 50,
+          "y": 290
+        },
+        "control2": {
+          "x": 80,
+          "y": 290
+        }
+      },
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 50,
+          "y": 130
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 140,
+          "y": 130
+        },
+        "control1": {
+          "x": 50,
+          "y": 100
+        },
+        "control2": {
+          "x": 160,
+          "y": 100
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 140,
+          "y": 195
+        },
+        "control1": {
+          "x": 165,
+          "y": 160
+        },
+        "control2": {
+          "x": 165,
+          "y": 195
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 55,
+          "y": 210
+        },
+        "control1": {
+          "x": 140,
+          "y": 225
+        },
+        "control2": {
+          "x": 55,
+          "y": 225
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 170,
+          "y": 215
+        },
+        "control1": {
+          "x": 55,
+          "y": 210
+        },
+        "control2": {
+          "x": 170,
+          "y": 230
+        }
+      }
+    ]
+  },
+  {
+    "character": "q",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 130,
+          "y": 130
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 60,
+          "y": 110
+        },
+        "control1": {
+          "x": 130,
+          "y": 90
+        },
+        "control2": {
+          "x": 60,
+          "y": 90
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 50,
+          "y": 185
+        },
+        "control1": {
+          "x": 30,
+          "y": 130
+        },
+        "control2": {
+          "x": 30,
+          "y": 185
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 130,
+          "y": 210
+        },
+        "control1": {
+          "x": 50,
+          "y": 220
+        },
+        "control2": {
+          "x": 130,
+          "y": 230
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 145,
+          "y": 130
+        },
+        "control1": {
+          "x": 160,
+          "y": 200
+        },
+        "control2": {
+          "x": 160,
+          "y": 130
+        }
+      },
+      {
+        "type": "lineTo",
+        "point": {
+          "x": 145,
+          "y": 270
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 165,
+          "y": 280
+        },
+        "control1": {
+          "x": 145,
+          "y": 285
+        },
+        "control2": {
+          "x": 165,
+          "y": 285
+        }
+      }
+    ]
+  },
+  {
+    "character": "r",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 45,
+          "y": 155
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 55,
+          "y": 120
+        },
+        "control1": {
+          "x": 45,
+          "y": 135
+        },
+        "control2": {
+          "x": 45,
+          "y": 120
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 85,
+          "y": 110
+        },
+        "control1": {
+          "x": 55,
+          "y": 108
+        },
+        "control2": {
+          "x": 85,
+          "y": 108
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 100,
+          "y": 130
+        },
+        "control1": {
+          "x": 105,
+          "y": 110
+        },
+        "control2": {
+          "x": 105,
+          "y": 130
+        }
+      },
+      {
+        "type": "lineTo",
+        "point": {
+          "x": 100,
+          "y": 210
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 130,
+          "y": 210
+        },
+        "control1": {
+          "x": 100,
+          "y": 225
+        },
+        "control2": {
+          "x": 130,
+          "y": 225
+        }
+      }
+    ]
+  },
+  {
+    "character": "s",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 148,
+          "y": 125
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 80,
+          "y": 100
+        },
+        "control1": {
+          "x": 148,
+          "y": 90
+        },
+        "control2": {
+          "x": 80,
+          "y": 90
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 55,
+          "y": 140
+        },
+        "control1": {
+          "x": 40,
+          "y": 100
+        },
+        "control2": {
+          "x": 40,
+          "y": 145
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 130,
+          "y": 165
+        },
+        "control1": {
+          "x": 60,
+          "y": 165
+        },
+        "control2": {
+          "x": 130,
+          "y": 160
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 150,
+          "y": 190
+        },
+        "control1": {
+          "x": 160,
+          "y": 165
+        },
+        "control2": {
+          "x": 162,
+          "y": 190
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 80,
+          "y": 220
+        },
+        "control1": {
+          "x": 160,
+          "y": 225
+        },
+        "control2": {
+          "x": 80,
+          "y": 230
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 50,
+          "y": 200
+        },
+        "control1": {
+          "x": 52,
+          "y": 220
+        },
+        "control2": {
+          "x": 45,
+          "y": 205
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 170,
+          "y": 210
+        },
+        "control1": {
+          "x": 60,
+          "y": 200
+        },
+        "control2": {
+          "x": 170,
+          "y": 225
+        }
+      }
+    ]
+  },
+  {
+    "character": "t",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 95,
+          "y": 70
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "lineTo",
+        "point": {
+          "x": 95,
+          "y": 210
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 130,
+          "y": 215
+        },
+        "control1": {
+          "x": 95,
+          "y": 225
+        },
+        "control2": {
+          "x": 130,
+          "y": 225
+        }
+      },
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 55,
+          "y": 135
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "lineTo",
+        "point": {
+          "x": 145,
+          "y": 135
+        },
+        "control1": null,
+        "control2": null
+      }
+    ]
+  },
+  {
+    "character": "u",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 40,
+          "y": 120
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 40,
+          "y": 200
+        },
+        "control1": {
+          "x": 30,
+          "y": 155
+        },
+        "control2": {
+          "x": 30,
+          "y": 200
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 95,
+          "y": 220
+        },
+        "control1": {
+          "x": 40,
+          "y": 228
+        },
+        "control2": {
+          "x": 95,
+          "y": 230
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 110,
+          "y": 165
+        },
+        "control1": {
+          "x": 120,
+          "y": 220
+        },
+        "control2": {
+          "x": 120,
+          "y": 165
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 110,
+          "y": 120
+        },
+        "control1": {
+          "x": 110,
+          "y": 145
+        },
+        "control2": {
+          "x": 110,
+          "y": 120
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 148,
+          "y": 185
+        },
+        "control1": {
+          "x": 118,
+          "y": 135
+        },
+        "control2": {
+          "x": 150,
+          "y": 175
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 148,
+          "y": 210
+        },
+        "control1": {
+          "x": 150,
+          "y": 195
+        },
+        "control2": {
+          "x": 148,
+          "y": 210
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 170,
+          "y": 210
+        },
+        "control1": {
+          "x": 148,
+          "y": 225
+        },
+        "control2": {
+          "x": 170,
+          "y": 225
+        }
+      }
+    ]
+  },
+  {
+    "character": "v",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 40,
+          "y": 120
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 80,
+          "y": 210
+        },
+        "control1": {
+          "x": 45,
+          "y": 170
+        },
+        "control2": {
+          "x": 75,
+          "y": 210
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 155,
+          "y": 120
+        },
+        "control1": {
+          "x": 105,
+          "y": 210
+        },
+        "control2": {
+          "x": 145,
+          "y": 130
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 170,
+          "y": 210
+        },
+        "control1": {
+          "x": 160,
+          "y": 130
+        },
+        "control2": {
+          "x": 165,
+          "y": 225
+        }
+      }
+    ]
+  },
+  {
+    "character": "w",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 25,
+          "y": 120
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 55,
+          "y": 210
+        },
+        "control1": {
+          "x": 28,
+          "y": 170
+        },
+        "control2": {
+          "x": 52,
+          "y": 210
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 90,
+          "y": 130
+        },
+        "control1": {
+          "x": 72,
+          "y": 210
+        },
+        "control2": {
+          "x": 85,
+          "y": 140
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 120,
+          "y": 210
+        },
+        "control1": {
+          "x": 100,
+          "y": 145
+        },
+        "control2": {
+          "x": 118,
+          "y": 210
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 162,
+          "y": 120
+        },
+        "control1": {
+          "x": 138,
+          "y": 210
+        },
+        "control2": {
+          "x": 154,
+          "y": 130
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 170,
+          "y": 210
+        },
+        "control1": {
+          "x": 165,
+          "y": 130
+        },
+        "control2": {
+          "x": 167,
+          "y": 225
+        }
+      }
+    ]
+  },
+  {
+    "character": "x",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 45,
+          "y": 115
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 150,
+          "y": 215
+        },
+        "control1": {
+          "x": 70,
+          "y": 145
+        },
+        "control2": {
+          "x": 130,
+          "y": 185
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 165,
+          "y": 210
+        },
+        "control1": {
+          "x": 155,
+          "y": 220
+        },
+        "control2": {
+          "x": 168,
+          "y": 215
+        }
+      },
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 148,
+          "y": 115
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 50,
+          "y": 210
+        },
+        "control1": {
+          "x": 122,
+          "y": 150
+        },
+        "control2": {
+          "x": 65,
+          "y": 185
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 170,
+          "y": 215
+        },
+        "control1": {
+          "x": 45,
+          "y": 215
+        },
+        "control2": {
+          "x": 170,
+          "y": 228
+        }
+      }
+    ]
+  },
+  {
+    "character": "y",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 40,
+          "y": 120
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 95,
+          "y": 210
+        },
+        "control1": {
+          "x": 45,
+          "y": 170
+        },
+        "control2": {
+          "x": 90,
+          "y": 210
+        }
+      },
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 152,
+          "y": 120
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 95,
+          "y": 210
+        },
+        "control1": {
+          "x": 148,
+          "y": 170
+        },
+        "control2": {
+          "x": 100,
+          "y": 210
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 70,
+          "y": 275
+        },
+        "control1": {
+          "x": 85,
+          "y": 235
+        },
+        "control2": {
+          "x": 60,
+          "y": 265
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 55,
+          "y": 265
+        },
+        "control1": {
+          "x": 52,
+          "y": 280
+        },
+        "control2": {
+          "x": 50,
+          "y": 265
+        }
+      }
+    ]
+  },
+  {
+    "character": "z",
+    "viewBox": {
+      "width": 200,
+      "height": 300
+    },
+    "segments": [
+      {
+        "type": "moveTo",
+        "point": {
+          "x": 50,
+          "y": 115
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "lineTo",
+        "point": {
+          "x": 150,
+          "y": 115
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 50,
+          "y": 210
+        },
+        "control1": {
+          "x": 120,
+          "y": 130
+        },
+        "control2": {
+          "x": 55,
+          "y": 195
+        }
+      },
+      {
+        "type": "lineTo",
+        "point": {
+          "x": 155,
+          "y": 210
+        },
+        "control1": null,
+        "control2": null
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 160,
+          "y": 260
+        },
+        "control1": {
+          "x": 160,
+          "y": 215
+        },
+        "control2": {
+          "x": 165,
+          "y": 260
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 120,
+          "y": 278
+        },
+        "control1": {
+          "x": 162,
+          "y": 280
+        },
+        "control2": {
+          "x": 120,
+          "y": 285
+        }
+      },
+      {
+        "type": "curveTo",
+        "point": {
+          "x": 95,
+          "y": 265
+        },
+        "control1": {
+          "x": 95,
+          "y": 278
+        },
+        "control2": {
+          "x": 88,
+          "y": 262
+        }
+      }
+    ]
+  }
+]
