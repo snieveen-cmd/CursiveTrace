@@ -1,0 +1,509 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AA000000000000000000012 /* CursiveTraceApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000000000000000000013; };
+		AA000000000000000000014 /* AppEnvironment.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000000000000000000015; };
+		AA000000000000000000022 /* LetterPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000000000000000000023; };
+		AA000000000000000000024 /* TracingItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000000000000000000025; };
+		AA000000000000000000026 /* Letter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000000000000000000027; };
+		AA000000000000000000028 /* CursiveWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000000000000000000029; };
+		AA00000000000000000002A /* UserProgress.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA00000000000000000002B; };
+		AA00000000000000000002C /* StarRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA00000000000000000002D; };
+		AA000000000000000000032 /* ScoringEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000000000000000000033; };
+		AA000000000000000000034 /* PathRenderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000000000000000000035; };
+		AA000000000000000000036 /* ProgressStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000000000000000000037; };
+		AA000000000000000000042 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000000000000000000043; };
+		AA000000000000000000046 /* ProgressGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000000000000000000047; };
+		AA000000000000000000048 /* LetterProgressCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000000000000000000049; };
+		AA00000000000000000004B /* TracingContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA00000000000000000004C; };
+		AA00000000000000000004D /* TracingCanvasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA00000000000000000004E; };
+		AA00000000000000000004F /* GuideOverlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000000000000000000050; };
+		AA000000000000000000052 /* TracingToolbarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000000000000000000053; };
+		AA000000000000000000055 /* ScoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000000000000000000056; };
+		AA000000000000000000057 /* StarAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000000000000000000058; };
+		AA00000000000000000005A /* AnimatedStarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA00000000000000000005B; };
+		AA000000000000000000062 /* cursive_paths.json in Resources */ = {isa = PBXBuildFile; fileRef = AA000000000000000000063; };
+		AA000000000000000000064 /* words.json in Resources */ = {isa = PBXBuildFile; fileRef = AA000000000000000000065; };
+		AA000000000000000000091 /* PencilKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA000000000000000000090; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		AA000000000000000000013 /* CursiveTraceApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CursiveTraceApp.swift; sourceTree = "<group>"; };
+		AA000000000000000000015 /* AppEnvironment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppEnvironment.swift; sourceTree = "<group>"; };
+		AA000000000000000000023 /* LetterPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetterPath.swift; sourceTree = "<group>"; };
+		AA000000000000000000025 /* TracingItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TracingItem.swift; sourceTree = "<group>"; };
+		AA000000000000000000027 /* Letter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Letter.swift; sourceTree = "<group>"; };
+		AA000000000000000000029 /* CursiveWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CursiveWord.swift; sourceTree = "<group>"; };
+		AA00000000000000000002B /* UserProgress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProgress.swift; sourceTree = "<group>"; };
+		AA00000000000000000002D /* StarRating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarRating.swift; sourceTree = "<group>"; };
+		AA000000000000000000033 /* ScoringEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoringEngine.swift; sourceTree = "<group>"; };
+		AA000000000000000000035 /* PathRenderer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathRenderer.swift; sourceTree = "<group>"; };
+		AA000000000000000000037 /* ProgressStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressStore.swift; sourceTree = "<group>"; };
+		AA000000000000000000043 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		AA000000000000000000047 /* ProgressGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressGridView.swift; sourceTree = "<group>"; };
+		AA000000000000000000049 /* LetterProgressCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetterProgressCell.swift; sourceTree = "<group>"; };
+		AA00000000000000000004C /* TracingContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TracingContainerView.swift; sourceTree = "<group>"; };
+		AA00000000000000000004E /* TracingCanvasView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TracingCanvasView.swift; sourceTree = "<group>"; };
+		AA000000000000000000050 /* GuideOverlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuideOverlayView.swift; sourceTree = "<group>"; };
+		AA000000000000000000053 /* TracingToolbarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TracingToolbarView.swift; sourceTree = "<group>"; };
+		AA000000000000000000056 /* ScoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreView.swift; sourceTree = "<group>"; };
+		AA000000000000000000058 /* StarAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarAnimationView.swift; sourceTree = "<group>"; };
+		AA00000000000000000005B /* AnimatedStarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedStarView.swift; sourceTree = "<group>"; };
+		AA000000000000000000063 /* cursive_paths.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = cursive_paths.json; sourceTree = "<group>"; };
+		AA000000000000000000065 /* words.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = words.json; sourceTree = "<group>"; };
+		AA000000000000000000071 /* CursiveTrace.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CursiveTrace.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA000000000000000000090 /* PencilKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = PencilKit.framework; path = System/Library/Frameworks/PencilKit.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AA000000000000000000082 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AA000000000000000000091 /* PencilKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AA000000000000000000003 /* CursiveTrace */ = {
+			isa = PBXGroup;
+			children = (
+				AA000000000000000000010 /* App */,
+				AA000000000000000000020 /* Models */,
+				AA000000000000000000030 /* Services */,
+				AA000000000000000000040 /* Views */,
+				AA000000000000000000060 /* Resources */,
+			);
+			path = CursiveTrace;
+			sourceTree = "<group>";
+		};
+		AA000000000000000000001 /* main */ = {
+			isa = PBXGroup;
+			children = (
+				AA000000000000000000003 /* CursiveTrace */,
+				AA000000000000000000070 /* Products */,
+				AA000000000000000000092 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		AA000000000000000000010 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				AA000000000000000000013 /* CursiveTraceApp.swift */,
+				AA000000000000000000015 /* AppEnvironment.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		AA000000000000000000020 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				AA000000000000000000023 /* LetterPath.swift */,
+				AA000000000000000000025 /* TracingItem.swift */,
+				AA000000000000000000027 /* Letter.swift */,
+				AA000000000000000000029 /* CursiveWord.swift */,
+				AA00000000000000000002B /* UserProgress.swift */,
+				AA00000000000000000002D /* StarRating.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		AA000000000000000000030 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				AA000000000000000000033 /* ScoringEngine.swift */,
+				AA000000000000000000035 /* PathRenderer.swift */,
+				AA000000000000000000037 /* ProgressStore.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		AA000000000000000000040 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				AA000000000000000000041 /* Home */,
+				AA000000000000000000044 /* Progress */,
+				AA000000000000000000049B /* Tracing */,
+				AA000000000000000000054 /* Score */,
+				AA000000000000000000059 /* Shared */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		AA000000000000000000041 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				AA000000000000000000043 /* HomeView.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		AA000000000000000000044 /* Progress */ = {
+			isa = PBXGroup;
+			children = (
+				AA000000000000000000047 /* ProgressGridView.swift */,
+				AA000000000000000000049 /* LetterProgressCell.swift */,
+			);
+			path = Progress;
+			sourceTree = "<group>";
+		};
+		AA000000000000000000049B /* Tracing */ = {
+			isa = PBXGroup;
+			children = (
+				AA00000000000000000004C /* TracingContainerView.swift */,
+				AA00000000000000000004E /* TracingCanvasView.swift */,
+				AA000000000000000000050 /* GuideOverlayView.swift */,
+				AA000000000000000000053 /* TracingToolbarView.swift */,
+			);
+			path = Tracing;
+			sourceTree = "<group>";
+		};
+		AA000000000000000000054 /* Score */ = {
+			isa = PBXGroup;
+			children = (
+				AA000000000000000000056 /* ScoreView.swift */,
+				AA000000000000000000058 /* StarAnimationView.swift */,
+			);
+			path = Score;
+			sourceTree = "<group>";
+		};
+		AA000000000000000000059 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				AA00000000000000000005B /* AnimatedStarView.swift */,
+			);
+			path = Shared;
+			sourceTree = "<group>";
+		};
+		AA000000000000000000060 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				AA000000000000000000063 /* cursive_paths.json */,
+				AA000000000000000000065 /* words.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		AA000000000000000000070 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AA000000000000000000071 /* CursiveTrace.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AA000000000000000000092 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AA000000000000000000090 /* PencilKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AA000000000000000000002 /* CursiveTrace */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AA000000000000000000A3;
+			buildPhases = (
+				AA000000000000000000080 /* Sources */,
+				AA000000000000000000081 /* Resources */,
+				AA000000000000000000082 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CursiveTrace;
+			productName = CursiveTrace;
+			productReference = AA000000000000000000071 /* CursiveTrace.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AA000000000000000000001 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					AA000000000000000000002 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = AA000000000000000000A2;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AA000000000000000000001;
+			productRefGroup = AA000000000000000000070 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AA000000000000000000002 /* CursiveTrace */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AA000000000000000000081 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AA000000000000000000062 /* cursive_paths.json in Resources */,
+				AA000000000000000000064 /* words.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AA000000000000000000080 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AA000000000000000000012 /* CursiveTraceApp.swift in Sources */,
+				AA000000000000000000014 /* AppEnvironment.swift in Sources */,
+				AA000000000000000000022 /* LetterPath.swift in Sources */,
+				AA000000000000000000024 /* TracingItem.swift in Sources */,
+				AA000000000000000000026 /* Letter.swift in Sources */,
+				AA000000000000000000028 /* CursiveWord.swift in Sources */,
+				AA00000000000000000002A /* UserProgress.swift in Sources */,
+				AA00000000000000000002C /* StarRating.swift in Sources */,
+				AA000000000000000000032 /* ScoringEngine.swift in Sources */,
+				AA000000000000000000034 /* PathRenderer.swift in Sources */,
+				AA000000000000000000036 /* ProgressStore.swift in Sources */,
+				AA000000000000000000042 /* HomeView.swift in Sources */,
+				AA000000000000000000046 /* ProgressGridView.swift in Sources */,
+				AA000000000000000000048 /* LetterProgressCell.swift in Sources */,
+				AA00000000000000000004B /* TracingContainerView.swift in Sources */,
+				AA00000000000000000004D /* TracingCanvasView.swift in Sources */,
+				AA00000000000000000004F /* GuideOverlayView.swift in Sources */,
+				AA000000000000000000052 /* TracingToolbarView.swift in Sources */,
+				AA000000000000000000055 /* ScoreView.swift in Sources */,
+				AA000000000000000000057 /* StarAnimationView.swift in Sources */,
+				AA00000000000000000005A /* AnimatedStarView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		AA000000000000000000A0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_CYCLE = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		AA000000000000000000A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_CYCLE = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AA000000000000000000A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.CursiveTrace;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		AA000000000000000000A5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.CursiveTrace;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AA000000000000000000A2 /* Build configuration list for PBXProject "CursiveTrace" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AA000000000000000000A0 /* Debug */,
+				AA000000000000000000A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AA000000000000000000A3 /* Build configuration list for PBXNativeTarget "CursiveTrace" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AA000000000000000000A4 /* Debug */,
+				AA000000000000000000A5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+	};
+	rootObject = AA000000000000000000001 /* Project object */;
+}
